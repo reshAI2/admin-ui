@@ -1,5 +1,5 @@
-![тут должно быть изображение](https://ibb.co/wpFmc06)
-![тут должно быть изображение](https://ibb.co/NFG9yLS)
+![тут должно быть изображение](https://i.ibb.co/YfFs0Rj/reshai.jpg)
+![тут должно быть изображение](https://i.ibb.co/NFG9yLS/reshai2.jpg)
 
 ## Available Scripts
 
